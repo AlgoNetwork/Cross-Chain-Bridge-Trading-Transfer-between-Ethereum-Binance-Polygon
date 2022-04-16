@@ -9,6 +9,6 @@ BNB to Fantom<br>
 Matic to BNB<br>
 FTM to BNB<br>
 Matic to FTM<br>
-we wil add More Blockchain to this project
+we wil add More Blockchain to this project in the future
 
 https://algonetwork.github.io/Cross-Chain-Bridge-Trading-Transfer-between-Ethereum-Binance-Polygon/
